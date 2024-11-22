@@ -1,12 +1,12 @@
 name = "CmdgodPack"
 author = "Cmdpro"
-version = "1.0.2"
+version = "1.0.3"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "8dfe766863f70e85635f7f0c7bf823c2fa93c831503da31033cd8737c01ac24c"
+hash = "5e7ac7d60cb81257b76da5ec4573248a32ed23380e04b316bde83256b1c79d23"
 
 [versions]
 minecraft = "1.21.1"
