@@ -439,6 +439,11 @@ hash = "0a2f7d3b52fbe01cac5bd7225858594aaddeb623410d8e87c65b275cc00b0799"
 metafile = true
 
 [[files]]
+file = "mods/carry-on.pw.toml"
+hash = "8fde54624913d86f1176cd1086fa485f1a872573dac144347c57cab76596b715"
+metafile = true
+
+[[files]]
 file = "mods/cc-tweaked.pw.toml"
 hash = "8f16fd9ebed212dd43c4a224c6666ab52386ba46469e59460516108f28756e60"
 metafile = true
@@ -466,6 +471,11 @@ metafile = true
 [[files]]
 file = "mods/controlling.pw.toml"
 hash = "6f749b135433fb612f6c6b070bebde024f691768958422a1d5fa933940e1f2d1"
+metafile = true
+
+[[files]]
+file = "mods/coroutil.pw.toml"
+hash = "d901f874a1e09747b8d0d072c38c426eceead1f29c8ba36680f8f0082996b152"
 metafile = true
 
 [[files]]
@@ -691,6 +701,11 @@ metafile = true
 [[files]]
 file = "mods/vein-mining.pw.toml"
 hash = "813e9e0eafc379e546d68dd12bfcee29eee4ab4eefbbde3b8648e3401aaa23d4"
+metafile = true
+
+[[files]]
+file = "mods/what-are-they-up-to.pw.toml"
+hash = "25c196d1706a86c766d5868f8d8d4b53dfefdde3b5b6165c5c5297a7560e412e"
 metafile = true
 
 [[files]]
