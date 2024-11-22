@@ -1,0 +1,13 @@
+filename = 'stateobserver-neoforge-1.21.1-1.5.3.jar'
+name = 'StateObserver'
+side = 'both'
+
+[download]
+hash = '4ba4a43401109b465c03dffd0255c61a2c724451308f6a02585848acdd403d7249acbeddb1e60576f0ee8c3218cf77a2f8dde75572327f99044f0c07b7f8d5ac'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/D1lhcTKz/versions/ZaluuccQ/stateobserver-neoforge-1.21.1-1.5.3.jar'
+
+[update.modrinth]
+mod-id = 'D1lhcTKz'
+version = 'ZaluuccQ'

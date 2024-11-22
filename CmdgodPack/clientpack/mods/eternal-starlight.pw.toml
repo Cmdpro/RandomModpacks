@@ -1,0 +1,13 @@
+filename = 'eternalstarlight-0.1.18+1.21.1+neoforge.jar'
+name = 'Eternal Starlight'
+side = 'both'
+
+[download]
+hash = 'a2f7db430370ac399bba1c04d5a82ff47afe30724b1ec605f2f9178d4c7d5dca4ca445ea44711e6ecc6dc9da92b3de2aa987802ce85fc7980a14352d2068adfd'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/XvcfUGfB/versions/FZHRqtab/eternalstarlight-0.1.18%2B1.21.1%2Bneoforge.jar'
+
+[update.modrinth]
+mod-id = 'XvcfUGfB'
+version = 'FZHRqtab'

@@ -1,0 +1,13 @@
+filename = 'Storage Drawers-neoforge-1.21-13.8.3.jar'
+name = 'Storage Drawers'
+side = 'both'
+
+[download]
+hash = '1f90b48eeb0a1c8a7a62723478d994d662818f6ff9e94b5cfb75d89815e105f1ef9a1db688e8852d4902e070f726e318d88649fc5f5122a97df50592091ca91d'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/guitPqEi/versions/TlPR935J/Storage Drawers-neoforge-1.21-13.8.3.jar'
+
+[update.modrinth]
+mod-id = 'guitPqEi'
+version = 'TlPR935J'

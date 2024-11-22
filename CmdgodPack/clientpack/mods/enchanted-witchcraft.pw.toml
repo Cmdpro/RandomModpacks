@@ -1,0 +1,16 @@
+filename = 'enchanted-neoforge-1.21.1-4.0.5-beta.jar'
+name = 'Enchanted'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = 'dbb4bea27e65e1a5f36de6bac684aafd5298f7efb14eb2dedffd049ca020d831bb4b53c75e1773bd53c8b02c84b1a2e3a00f0eefe1b562d4657de2c0713b95b4'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/HsbpdVo9/versions/Mx812GJS/enchanted-neoforge-1.21.1-4.0.5-beta.jar'
+
+[update.modrinth]
+mod-id = 'HsbpdVo9'
+version = 'Mx812GJS'
