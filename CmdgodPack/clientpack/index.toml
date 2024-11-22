@@ -629,6 +629,10 @@ hash = "bf3b7f7b910a943094d683a28503f08be1cc61dad79768e7580ccb6d84860502"
 metafile = true
 
 [[files]]
+file = "mods/player-animation-lib-forge-2.0.0-alpha1+1.21(1).jar"
+hash = "ea85c8f32ea3fc6bc242050f9ba075732a25e9c64a9c84047a7d427e874a05e5"
+
+[[files]]
 file = "mods/pneumaticcraft-repressurized.pw.toml"
 hash = "3e43371ae3ea0ad551985de0171011e1e689616600f0290cd36cf75af71a1e03"
 metafile = true
