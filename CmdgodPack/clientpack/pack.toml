@@ -1,13 +1,16 @@
 name = "CmdgodPack"
 author = "Cmdpro"
-version = "1.0.1"
+version = "1.0.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "d80e19f891802701e859ef97181c98ba8bd51a6d67dd333984f404fd7c737def"
+hash = "8dfe766863f70e85635f7f0c7bf823c2fa93c831503da31033cd8737c01ac24c"
 
 [versions]
 minecraft = "1.21.1"
 neoforge = "21.1.80"
+
+[options]
+acceptable-game-versions = ["1.21"]
