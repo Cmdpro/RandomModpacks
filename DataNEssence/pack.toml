@@ -1,0 +1,12 @@
+name = "dne"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "516c1ff7058c51764029542f83c3b9b4f08e482d1cf839d05aeea456ca8c3443"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.117"
