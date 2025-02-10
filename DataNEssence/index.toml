@@ -231,7 +231,7 @@ metafile = true
 
 [[files]]
 file = "mods/datanessence-1.0.0-alpha-earlygame1.jar"
-hash = "045ac07fde91e790693ffc9d2a93f9f4eb6f091a19d2ffd74764e77fca8c562c"
+hash = "62c22318b6c5b7575e73e2f4f4cbc05e29296f17c5501ef51cc8d8bdff535359"
 
 [[files]]
 file = "mods/emi-enchanting.pw.toml"

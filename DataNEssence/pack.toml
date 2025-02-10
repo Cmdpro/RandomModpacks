@@ -1,11 +1,11 @@
 name = "dne"
-version = "1.0.1"
+version = "1.0.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "3d2476a0d9d70c4c51254725a00877b10982ea4320218399d0e3088ae83af29b"
+hash = "db45a08a4b8b73f372cb64ee4d925c8eb953e17359ea215b790ff01901bd126e"
 
 [versions]
 minecraft = "1.21.1"
