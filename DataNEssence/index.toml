@@ -229,8 +229,8 @@ file = "mods/databank-1.0.1.jar"
 hash = "a77fc0c536a4acf14e2b79bffe25778516f52f38456f6e37098f8385b920fdfc"
 
 [[files]]
-file = "mods/datanessence-1.0.0-alpha-earlygame2.jar"
-hash = "3a9e07d144ab8e981441473825332cf0b3d9f003d49c45b12c99aa29c037cffe"
+file = "mods/datanessence-1.0.0-alpha-earlygame3.jar"
+hash = "94645ccfeaec04e82e133243937a4ed5f2921b32c7cf84b2deb9ec5987bedc67"
 
 [[files]]
 file = "mods/emi-enchanting.pw.toml"
